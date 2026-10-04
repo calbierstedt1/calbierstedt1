@@ -1,59 +1,64 @@
 # Hi, I'm Cal Bierstedt 👋
 
 ### Mechanical Engineering Student | Aerospace | Design • Analysis • Testing
-##🚀 Engineering Projects
 
-##✈️ Autonomous Fixed-Wing UAV
+I'm a senior Mechanical Engineering student at the University of Nevada, Las Vegas (UNLV), graduating in Fall 2026. I'm interested in aerospace and defense engineering, particularly hands-on roles involving mechanical design, fluid systems, aerodynamics, propulsion, testing, and autonomous systems.
 
-Designed and built an autonomous fixed-wing aircraft
+I enjoy taking engineering projects from **concept → design → analysis → manufacturing → testing.**
 
-Integrated propulsion, electronics, flight controls, and structural components
+**🚀 Engineering Projects**
 
-Worked with flight-controller, ESC, battery, and sensor integration
+**✈️ Autonomous Fixed-Wing UAV**
 
-Used engineering analysis to balance aircraft weight, performance, and flight time
+Designed and built an autonomous fixed-wing aircraft.
 
-##🏎️ Formula SAE
+Integrated propulsion, electronics, flight controls, and structural components.
 
-Designed and analyzed aerodynamic and fluid-system components for UNLV Formula SAE
+Worked with flight-controller, ESC, battery, and sensor integration.
 
-Used ANSYS Fluent for CFD analysis and aerodynamic optimization
+Used engineering analysis to balance aircraft weight, performance, and flight time.
 
-Improved aerodynamic efficiency by more than 100% compared with the initial baseline configuration
+**🏎️ Formula SAE**
 
-Designed, assembled, and tested a water-cooling loop for the vehicle powertrain
+Designed and analyzed aerodynamic and fluid-system components for UNLV Formula SAE.
 
-Manufactured components using carbon-fiber composites, 3D printing, and traditional fabrication methods
+Used **ANSYS Fluent** for CFD analysis and aerodynamic optimization.
 
-##🚀 High-Power Rocketry
+Improved aerodynamic efficiency by more than **100% compared with the initial baseline configuration.**
 
-Designed and built a Level 1 high-power rocket
+Designed, assembled, and tested a **water-cooling loop for the vehicle powertrain.**
 
-Used 3D printing, laser cutting, and hands-on fabrication
+Manufactured components using carbon-fiber composites, 3D printing, and traditional fabrication methods.
 
-Gained experience with rocket structures, propulsion-system integration, and launch preparation
+**🚀 High-Power Rocketry**
 
-##🛠️ Technical Skills
+Designed and built a **Level 1 high-power rocket.**
 
-Engineering & CAD
+Used 3D printing, laser cutting, and hands-on fabrication.
+
+Gained experience with rocket structures, propulsion-system integration, and launch preparation.
+
+**🛠️ Technical Skills**
+
+**Engineering & CAD**
 AutoCAD • Autodesk Inventor • ANSYS Mechanical • ANSYS Fluent • ArcGIS
 
-Programming & Analysis
+**Programming & Analysis**
 MATLAB • Python • Numerical Methods • Data Analysis
 
-Engineering
+**Engineering**
 Mechanical Design • Aerodynamics • Fluid Mechanics • Heat Transfer • Controls • CFD • FEA • Testing & Validation
 
-Manufacturing
-3D Printing • Carbon-Fiber Composites • Laser Cutting • Mechanical Assembly • Prototyping
+**Manufacturing**
+GD&T • 3D Printing • Carbon-Fiber Composites • Laser Cutting • Mechanical Assembly • Prototyping
 
-##📌 Current Interests
+**📌 Current Interests**
 
 I'm currently expanding my experience in:
 
 Aerospace & defense systems
 
-Fluid systems
+Fluid & propulsion systems
 
 Aerodynamic and CFD
 
@@ -63,7 +68,7 @@ Autonomous aircraft
 
 Engineering testing and data acquisition
 
-📫 Connect With Me
+**📫 Connect With Me**
 
 LinkedIn: [www.linkedin.com/in/calbierstedt]
 Email: [calbierstedt@gmail.com]
