@@ -27,6 +27,7 @@ Designed and built a **Level 1 high-power rocket.**
 Used 3D printing, laser cutting, and hands-on fabrication.
 
 Gained experience with rocket structures, propulsion-system integration, and launch preparation.
+
 **✈️ Autonomous Fixed-Wing UAV**
 
 Designed and built an autonomous fixed-wing aircraft.
