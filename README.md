@@ -8,16 +8,6 @@ I enjoy taking engineering projects from **concept → design → analysis → m
 
 **🚀 Engineering Projects**
 
-**✈️ Autonomous Fixed-Wing UAV**
-
-Designed and built an autonomous fixed-wing aircraft.
-
-Integrated propulsion, electronics, flight controls, and structural components.
-
-Worked with flight-controller, ESC, battery, and sensor integration.
-
-Used engineering analysis to balance aircraft weight, performance, and flight time.
-
 **🏎️ Formula SAE**
 
 Designed and analyzed aerodynamic and fluid-system components for UNLV Formula SAE.
@@ -37,6 +27,15 @@ Designed and built a **Level 1 high-power rocket.**
 Used 3D printing, laser cutting, and hands-on fabrication.
 
 Gained experience with rocket structures, propulsion-system integration, and launch preparation.
+**✈️ Autonomous Fixed-Wing UAV**
+
+Designed and built an autonomous fixed-wing aircraft.
+
+Integrated propulsion, electronics, flight controls, and structural components.
+
+Worked with flight-controller, ESC, battery, and sensor integration.
+
+Used engineering analysis to balance aircraft weight, performance, and flight time.
 
 **🛠️ Technical Skills**
 
